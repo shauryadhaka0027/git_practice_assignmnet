@@ -5,3 +5,9 @@ for(i=0;i<arr.length;i++){
         count++
     }
 }
+if(count==2){
+    console.log("Yes")
+}
+else{
+    console.log("no")
+}
